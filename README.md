@@ -2,8 +2,8 @@
 
 ## Build
 
-The following ROM is the base:
-Pokemon Red (UE) [S][!].gb
+The following ROM is the base:  
+Pokemon Red (UE) [S][!].gb  
 (MD5: 3d45c1ee9abd5738df46d2bdda8b57dc)
 
 RGBDS must be in your path. It may be obtained at:
