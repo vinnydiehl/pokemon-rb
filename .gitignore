@@ -1,0 +1,29 @@
+syntax: glob
+
+# Precompiled Python
+*.pyc
+
+# Compiled Object File
+*.o
+
+# Binaries
+*.exe
+
+# ROMs
+*.gbc
+
+# Generated
+*.tx
+
+# Temporary Files
+.*.sw[a-z]
+*~
+
+# Data From extras/
+extras/*.json
+
+# Save Game Files
+baserom.sgm
+baserom.sav
+pokered.sgm
+pokered.sav
