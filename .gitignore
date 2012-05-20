@@ -1,5 +1,3 @@
-syntax: glob
-
 # Precompiled Python
 *.pyc
 
